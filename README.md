@@ -24,5 +24,4 @@
 
 ## 5. Hacer un merge
 
-
-https://github.com/DiegoSubires/laboratorioGit.git
+<img src="./capturasPantalla/capturaPantalla_7.png" alt="Merge rama development y push" title="Merge rama development y push" />
