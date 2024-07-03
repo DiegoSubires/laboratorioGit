@@ -6,8 +6,13 @@
 
 ## 2. Subir el repositorio a GitHub
 
+<img src="./capturasPantalla/capturaPantalla_2.png" alt="Crear repo remoto" title="Crear repo remoto" />
+
 ## 3. Hacer un commit y un push
 
 ## 4. Crear una rama
 
 ## 5. Hacer un merge
+
+
+https://github.com/DiegoSubires/laboratorioGit.git
